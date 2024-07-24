@@ -1,1 +1,56 @@
+@import url(./component/header.css);
 @import url(./component/global.css);
+
+hgroup {
+    text-align: center;
+}
+
+/* 
+.headeri {
+
+    width: 1370px;
+    height: 665px;
+
+} */
+
+
+
+
+
+
+.photos img {
+    width: 100%;
+    height: auto;
+}
+
+.decouvrir-carte {
+    width: 1140px;
+    display: flex;
+    align-items: center;
+}
+
+
+.la-carte {
+    display: block;
+    padding: 30px;
+    width: 65%;
+    height: 4px;
+
+}
+
+.photos {
+    width: 35%;
+    display: flex;
+    flex-wrap: wrap;
+    padding: 50px;
+    width: 35%;
+    height: 5px;
+    
+    
+}
+
+/* .photo1,.photo2,.photo3,.photo4 {
+    width: 8.75%;
+    
+
+} */
