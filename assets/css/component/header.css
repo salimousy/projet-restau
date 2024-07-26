@@ -1,0 +1,42 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background: rgb(62, 85, 86);
+    width: 100vw;
+    height: 8vh;
+    display: flex;
+    justify-content: space-between;
+    padding: 0 2vw;
+}
+
+header>a,nav>ul>li>a {
+    text-decoration: none;
+    text-align: center;
+    color: white;
+    text-shadow: 1px 1px 5px black;
+    line-height: 8vh;
+    display: block;
+    width: 100px;
+}
+
+ul {
+    list-style: none;
+    display: flex;
+}
+
+
+.headeri {
+
+    width: 1370px;
+    height: 665px;
+
+}
+
+
+
+
+    

@@ -1,0 +1,816 @@
+<!DOCTYPE html>
+<!-- saved from url=(0031)https://www.saperlipopette1.fr/ -->
+<html lang="fr-FR" class="js_active vc_desktop vc_transform vc_transform skrollr skrollr-desktop" data-lt-installed="true"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+   
+   <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+   <title>Accueil</title>
+   <!--<base href="/">--><base href=".">
+   <!-- Google Fonts -->
+   <link rel="stylesheet" id="caverta-font-css" href="./restomanger_files/css" type="text/css" media="all">
+   <!-- Bootstrap CSS -->
+   <link rel="stylesheet" id="bootstrap-css" href="./restomanger_files/bootstrap.min.css" type="text/css" media="all">
+   <!-- Font Awesome Icons CSS -->
+   <link rel="stylesheet" id="font-awesome" href="./restomanger_files/font-awesome.min.css" type="text/css" media="all">
+   <!-- Owl Carousel -->
+   <link rel="stylesheet" id="owl-carousel" href="./restomanger_files/owl.carousel.min.css" type="text/css" media="all">
+   <!-- Main CSS File -->
+   <link rel="stylesheet" id="main-style-css" href="./restomanger_files/style.css" type="text/css" media="all">
+
+   <link rel="stylesheet" id="main-override-style-css" href="./restomanger_files/override.css" type="text/css" media="all">
+
+   <!-- favicons -->
+   <link rel="icon" href="https://www.saperlipopette1.fr/wp-content/themes/lesbistrotspasparisiens/images/icons/favicon-32x32.png" sizes="32x32">
+   <link rel="icon" href="https://www.saperlipopette1.fr/wp-content/themes/lesbistrotspasparisiens/images/icons/favicon-192x192.png" sizes="192x192">
+   <link rel="apple-touch-icon-precomposed" href="https://www.saperlipopette1.fr/wp-content/themes/lesbistrotspasparisiens/images/icons/favicon-180x180.png">
+
+         
+
+   <style type="text/css">
+      @import url('https://fonts.googleapis.com/css?family=Great+Vibes&display=swap');
+      /* COLOR */
+      aside .widgettitle,
+      .elementor-accordion .elementor-tab-title:hover,
+      a:hover,
+      p a:hover,
+      .elementor-accordion .elementor-tab-title.elementor-active,
+      .elementor-widget-tabs .elementor-tab-title:hover,
+      .elementor-widget-tabs .elementor-tab-title.elementor-active,
+      .meta-nav a:hover,
+      .smalltitle,
+      .menu-nav li a:hover,
+      .menuTab .nav-link.active,
+      .icon-circle .elementor-icon,
+      .menu-title-section.active,
+      .view-more:hover,
+      #submit:hover,
+      #submit-contact:hover,
+      .menu-title-section:hover,
+      .current-page,
+      .page-numbers:hover,
+      .nav-page a:hover,
+      .page-links a:hover,
+      .post-password-form input[type="submit"]:hover,
+      .menu-title-section.active:before,
+      .menu-title-section.active a,
+      .menu-title-section:hover a,
+      .menu-title-section:hover:before,
+      .contact-icon,
+      .meta-categ a:hover,
+      h2 {
+         color: #fe7207;
+      }
+
+      .menu-nav>li.current-menu-item>a,
+      .menu-nav>li.current-page-ancestor>a,
+      .title-container.width-image .title,
+      .menu-nav>li:hover>a,
+      .menu-nav>li.current_page_parent>a {
+         color: #fe7207;
+      }
+
+      /* BORDER-COLOR */
+      .icon-circle .elementor-icon {
+         border-color: #fe7207;
+      }
+
+      .menu-nav>li:hover>a:before,
+      .menu-nav li.current-menu-item>a:before,
+      .menu-nav li.current_page_parent>a:before {
+         border-color: #fe7207;
+      }
+
+      .menu-nav ul:before {
+         border-color: transparent transparent #fe7207 transparent;
+      }
+
+      /* BACKGROUND-COLOR */
+      .menu-nav ul,
+      .section-bkg,
+      .meta-categ:before,
+      .post-meta li.meta-sticky,
+      .smalltitle:before,
+      .smalltitle:after,
+      .tagcloud a:hover,
+      .tags-single-page a:hover,
+      .view-more,
+      #submit,
+      .white-btn,
+      #submit-contact,
+      .page-numbers,
+      .nav-page a,
+      .page-links a,
+      .post-password-form input[type="submit"],
+      .tagcloud a {
+         background: #fe7207;
+      }
+
+      body .vc_general.vc_btn3:not(.vc_btn3-style-outline-custom),
+      .wpcf7 input[type="submit"] {
+         background-color: #fe7207;
+      }
+
+      /* BORDER */
+      .contact-icon,
+      .view-more,
+      #submit,
+      .white-btn,
+      #submit-contact,
+      .page-numbers,
+      .nav-page a,
+      .page-links a,
+      .post-password-form input[type="submit"] {
+         border: 2px solid #fe7207;
+      }
+
+      /* BORDER-BOTTOM */
+      .slider-btn:hover {
+         border-bottom: 2px solid #fe7207;
+      }
+
+      .border-bottom-center:after {
+         border-bottom: 1px solid #fe7207;
+      }
+
+      .title-container.width-image .title,
+      h2,
+      aside .widgettitle {
+         font-family: 'Great Vibes', cursive;
+         font-weight: 400      }
+
+      h2 {
+         font-size: px;
+      }
+
+      @media (max-width: 1300px) {
+         .logo-float {
+            left: 30px;
+            right: auto;
+         }
+      }
+   </style>
+
+   <script type="text/javascript" async="" src="./restomanger_files/analytics.js.téléchargement"></script><script type="text/javascript" async="" src="./restomanger_files/js"></script><script async="" src="https://u360.d-bi.fr/hmx000000000482.js"></script><script>
+      // Holimetrix javascript tag
+      (function(gwin, gdom, hmxid, gobj, jsasync, jsloc) {
+         if (typeof hmxtagidcust == 'undefined') {
+            hmxtagidcust = '2';
+         } else return;
+         gwin['ObjHmx'] = gobj;
+         gwin[gobj] = gwin[gobj] || function() {
+            (gwin[gobj].cmd = gwin[gobj].cmd || []).push(arguments)
+         };
+         jsasync = gdom.createElement('script');
+         jsloc = gdom.getElementsByTagName('script')[0];
+         jsasync.async = 1;
+         jsasync.src = '//u360.d-bi.fr/hmx' + hmxid + '.js';
+         jsloc.parentNode.insertBefore(jsasync, jsloc);
+      })(window, document, '000000000482', 'hmx');
+
+      // Insert below your potential objectives: hmx('set', 'step', 'your_objective_name_here');
+
+      // Send the pixel
+      hmx('send');
+   </script>
+
+   <meta name="robots" content="index, follow, max-image-preview:large, max-snippet:-1, max-video-preview:-1">
+
+	<!-- This site is optimized with the Yoast SEO plugin v19.9 - https://yoast.com/wordpress/plugins/seo/ -->
+	<meta name="description" content="C’est à quelques pas du Bois de Boulogne et de la Porte Maillot que se situe ce bistrot...">
+	<link rel="canonical" href="https://www.saperlipopette1.fr/">
+	<meta property="og:locale" content="fr_FR">
+	<meta property="og:type" content="website">
+	<meta property="og:title" content="Saperlipopette - le bistrot chic des Pas Parisiens">
+	<meta property="og:description" content="C’est à quelques pas du Bois de Boulogne et de la Porte Maillot que se situe ce bistrot...">
+	<meta property="og:url" content="https://www.saperlipopette1.fr/">
+	<meta property="og:site_name" content="Saperlipopette">
+	<meta property="article:modified_time" content="2024-02-15T10:55:52+00:00">
+	<meta name="twitter:card" content="summary_large_image">
+	<meta name="twitter:label1" content="Durée de lecture estimée">
+	<meta name="twitter:data1" content="2 minutes">
+	<script type="application/ld+json" class="yoast-schema-graph">{"@context":"https://schema.org","@graph":[{"@type":"WebPage","@id":"https://www.saperlipopette1.fr/","url":"https://www.saperlipopette1.fr/","name":"Saperlipopette - le bistrot chic des Pas Parisiens","isPartOf":{"@id":"https://www.saperlipopette1.fr/#website"},"datePublished":"2019-04-25T23:28:52+00:00","dateModified":"2024-02-15T10:55:52+00:00","description":"C’est à quelques pas du Bois de Boulogne et de la Porte Maillot que se situe ce bistrot...","breadcrumb":{"@id":"https://www.saperlipopette1.fr/#breadcrumb"},"inLanguage":"fr-FR","potentialAction":[{"@type":"ReadAction","target":["https://www.saperlipopette1.fr/"]}]},{"@type":"BreadcrumbList","@id":"https://www.saperlipopette1.fr/#breadcrumb","itemListElement":[{"@type":"ListItem","position":1,"name":"Accueil"}]},{"@type":"WebSite","@id":"https://www.saperlipopette1.fr/#website","url":"https://www.saperlipopette1.fr/","name":"Saperlipopette","description":"Un site utilisant Les sites des Bistrots Pas Parisiens","potentialAction":[{"@type":"SearchAction","target":{"@type":"EntryPoint","urlTemplate":"https://www.saperlipopette1.fr/?s={search_term_string}"},"query-input":"required name=search_term_string"}],"inLanguage":"fr-FR"}]}</script>
+	<!-- / Yoast SEO plugin. -->
+
+
+		<!-- This site uses the Google Analytics by ExactMetrics plugin v7.10.0 - Using Analytics tracking - https://www.exactmetrics.com/ -->
+							<script src="./restomanger_files/js(1)" data-cfasync="false" data-wpfc-render="false" type="text/javascript" async=""></script>
+			<script data-cfasync="false" data-wpfc-render="false" type="text/javascript">
+				var em_version = '7.10.0';
+				var em_track_user = true;
+				var em_no_track_reason = '';
+				
+								var disableStrs = [
+															'ga-disable-UA-142325756-2',
+									];
+
+				/* Function to detect opted out users */
+				function __gtagTrackerIsOptedOut() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						if (document.cookie.indexOf(disableStrs[index] + '=true') > -1) {
+							return true;
+						}
+					}
+
+					return false;
+				}
+
+				/* Disable tracking if the opt-out cookie exists. */
+				if (__gtagTrackerIsOptedOut()) {
+					for (var index = 0; index < disableStrs.length; index++) {
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				/* Opt-out function */
+				function __gtagTrackerOptout() {
+					for (var index = 0; index < disableStrs.length; index++) {
+						document.cookie = disableStrs[index] + '=true; expires=Thu, 31 Dec 2099 23:59:59 UTC; path=/';
+						window[disableStrs[index]] = true;
+					}
+				}
+
+				if ('undefined' === typeof gaOptout) {
+					function gaOptout() {
+						__gtagTrackerOptout();
+					}
+				}
+								window.dataLayer = window.dataLayer || [];
+
+				window.ExactMetricsDualTracker = {
+					helpers: {},
+					trackers: {},
+				};
+				if (em_track_user) {
+					function __gtagDataLayer() {
+						dataLayer.push(arguments);
+					}
+
+					function __gtagTracker(type, name, parameters) {
+						if (!parameters) {
+							parameters = {};
+						}
+
+						if (parameters.send_to) {
+							__gtagDataLayer.apply(null, arguments);
+							return;
+						}
+
+						if (type === 'event') {
+							
+														parameters.send_to = exactmetrics_frontend.ua;
+							__gtagDataLayer(type, name, parameters);
+													} else {
+							__gtagDataLayer.apply(null, arguments);
+						}
+					}
+
+					__gtagTracker('js', new Date());
+					__gtagTracker('set', {
+						'developer_id.dNDMyYj': true,
+											});
+															__gtagTracker('config', 'UA-142325756-2', {"forceSSL":"true"} );
+										window.gtag = __gtagTracker;										(function () {
+						/* https://developers.google.com/analytics/devguides/collection/analyticsjs/ */
+						/* ga and __gaTracker compatibility shim. */
+						var noopfn = function () {
+							return null;
+						};
+						var newtracker = function () {
+							return new Tracker();
+						};
+						var Tracker = function () {
+							return null;
+						};
+						var p = Tracker.prototype;
+						p.get = noopfn;
+						p.set = noopfn;
+						p.send = function () {
+							var args = Array.prototype.slice.call(arguments);
+							args.unshift('send');
+							__gaTracker.apply(null, args);
+						};
+						var __gaTracker = function () {
+							var len = arguments.length;
+							if (len === 0) {
+								return;
+							}
+							var f = arguments[len - 1];
+							if (typeof f !== 'object' || f === null || typeof f.hitCallback !== 'function') {
+								if ('send' === arguments[0]) {
+									var hitConverted, hitObject = false, action;
+									if ('event' === arguments[1]) {
+										if ('undefined' !== typeof arguments[3]) {
+											hitObject = {
+												'eventAction': arguments[3],
+												'eventCategory': arguments[2],
+												'eventLabel': arguments[4],
+												'value': arguments[5] ? arguments[5] : 1,
+											}
+										}
+									}
+									if ('pageview' === arguments[1]) {
+										if ('undefined' !== typeof arguments[2]) {
+											hitObject = {
+												'eventAction': 'page_view',
+												'page_path': arguments[2],
+											}
+										}
+									}
+									if (typeof arguments[2] === 'object') {
+										hitObject = arguments[2];
+									}
+									if (typeof arguments[5] === 'object') {
+										Object.assign(hitObject, arguments[5]);
+									}
+									if ('undefined' !== typeof arguments[1].hitType) {
+										hitObject = arguments[1];
+										if ('pageview' === hitObject.hitType) {
+											hitObject.eventAction = 'page_view';
+										}
+									}
+									if (hitObject) {
+										action = 'timing' === arguments[1].hitType ? 'timing_complete' : hitObject.eventAction;
+										hitConverted = mapArgs(hitObject);
+										__gtagTracker('event', action, hitConverted);
+									}
+								}
+								return;
+							}
+
+							function mapArgs(args) {
+								var arg, hit = {};
+								var gaMap = {
+									'eventCategory': 'event_category',
+									'eventAction': 'event_action',
+									'eventLabel': 'event_label',
+									'eventValue': 'event_value',
+									'nonInteraction': 'non_interaction',
+									'timingCategory': 'event_category',
+									'timingVar': 'name',
+									'timingValue': 'value',
+									'timingLabel': 'event_label',
+									'page': 'page_path',
+									'location': 'page_location',
+									'title': 'page_title',
+								};
+								for (arg in args) {
+																		if (!(!args.hasOwnProperty(arg) || !gaMap.hasOwnProperty(arg))) {
+										hit[gaMap[arg]] = args[arg];
+									} else {
+										hit[arg] = args[arg];
+									}
+								}
+								return hit;
+							}
+
+							try {
+								f.hitCallback();
+							} catch (ex) {
+							}
+						};
+						__gaTracker.create = newtracker;
+						__gaTracker.getByName = newtracker;
+						__gaTracker.getAll = function () {
+							return [];
+						};
+						__gaTracker.remove = noopfn;
+						__gaTracker.loaded = true;
+						window['__gaTracker'] = __gaTracker;
+					})();
+									} else {
+										console.log("");
+					(function () {
+						function __gtagTracker() {
+							return null;
+						}
+
+						window['__gtagTracker'] = __gtagTracker;
+						window['gtag'] = __gtagTracker;
+					})();
+									}
+			</script>
+				<!-- / Google Analytics by ExactMetrics -->
+		<script type="text/javascript">
+window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/14.0.0\/svg\/","svgExt":".svg","source":{"concatemoji":"https:\/\/www.saperlipopette1.fr\/wp-includes\/js\/wp-emoji-release.min.js?ver=6.1.7"}};
+/*! This file is auto-generated */
+!function(e,a,t){var n,r,o,i=a.createElement("canvas"),p=i.getContext&&i.getContext("2d");function s(e,t){var a=String.fromCharCode,e=(p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,e),0,0),i.toDataURL());return p.clearRect(0,0,i.width,i.height),p.fillText(a.apply(this,t),0,0),e===i.toDataURL()}function c(e){var t=a.createElement("script");t.src=e,t.defer=t.type="text/javascript",a.getElementsByTagName("head")[0].appendChild(t)}for(o=Array("flag","emoji"),t.supports={everything:!0,everythingExceptFlag:!0},r=0;r<o.length;r++)t.supports[o[r]]=function(e){if(p&&p.fillText)switch(p.textBaseline="top",p.font="600 32px Arial",e){case"flag":return s([127987,65039,8205,9895,65039],[127987,65039,8203,9895,65039])?!1:!s([55356,56826,55356,56819],[55356,56826,8203,55356,56819])&&!s([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]);case"emoji":return!s([129777,127995,8205,129778,127999],[129777,127995,8203,129778,127999])}return!1}(o[r]),t.supports.everything=t.supports.everything&&t.supports[o[r]],"flag"!==o[r]&&(t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&t.supports[o[r]]);t.supports.everythingExceptFlag=t.supports.everythingExceptFlag&&!t.supports.flag,t.DOMReady=!1,t.readyCallback=function(){t.DOMReady=!0},t.supports.everything||(n=function(){t.readyCallback()},a.addEventListener?(a.addEventListener("DOMContentLoaded",n,!1),e.addEventListener("load",n,!1)):(e.attachEvent("onload",n),a.attachEvent("onreadystatechange",function(){"complete"===a.readyState&&t.readyCallback()})),(e=t.source||{}).concatemoji?c(e.concatemoji):e.wpemoji&&e.twemoji&&(c(e.twemoji),c(e.wpemoji)))}(window,document,window._wpemojiSettings);
+</script><script src="./restomanger_files/wp-emoji-release.min.js.téléchargement" type="text/javascript" defer=""></script>
+<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 0.07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel="stylesheet" id="wp-block-library-css" href="./restomanger_files/style.min.css" type="text/css" media="all">
+<link rel="stylesheet" id="classic-theme-styles-css" href="./restomanger_files/classic-themes.min.css" type="text/css" media="all">
+<style id="global-styles-inline-css" type="text/css">
+body{--wp--preset--color--black: #000000;--wp--preset--color--cyan-bluish-gray: #abb8c3;--wp--preset--color--white: #ffffff;--wp--preset--color--pale-pink: #f78da7;--wp--preset--color--vivid-red: #cf2e2e;--wp--preset--color--luminous-vivid-orange: #ff6900;--wp--preset--color--luminous-vivid-amber: #fcb900;--wp--preset--color--light-green-cyan: #7bdcb5;--wp--preset--color--vivid-green-cyan: #00d084;--wp--preset--color--pale-cyan-blue: #8ed1fc;--wp--preset--color--vivid-cyan-blue: #0693e3;--wp--preset--color--vivid-purple: #9b51e0;--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple: linear-gradient(135deg,rgba(6,147,227,1) 0%,rgb(155,81,224) 100%);--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan: linear-gradient(135deg,rgb(122,220,180) 0%,rgb(0,208,130) 100%);--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange: linear-gradient(135deg,rgba(252,185,0,1) 0%,rgba(255,105,0,1) 100%);--wp--preset--gradient--luminous-vivid-orange-to-vivid-red: linear-gradient(135deg,rgba(255,105,0,1) 0%,rgb(207,46,46) 100%);--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray: linear-gradient(135deg,rgb(238,238,238) 0%,rgb(169,184,195) 100%);--wp--preset--gradient--cool-to-warm-spectrum: linear-gradient(135deg,rgb(74,234,220) 0%,rgb(151,120,209) 20%,rgb(207,42,186) 40%,rgb(238,44,130) 60%,rgb(251,105,98) 80%,rgb(254,248,76) 100%);--wp--preset--gradient--blush-light-purple: linear-gradient(135deg,rgb(255,206,236) 0%,rgb(152,150,240) 100%);--wp--preset--gradient--blush-bordeaux: linear-gradient(135deg,rgb(254,205,165) 0%,rgb(254,45,45) 50%,rgb(107,0,62) 100%);--wp--preset--gradient--luminous-dusk: linear-gradient(135deg,rgb(255,203,112) 0%,rgb(199,81,192) 50%,rgb(65,88,208) 100%);--wp--preset--gradient--pale-ocean: linear-gradient(135deg,rgb(255,245,203) 0%,rgb(182,227,212) 50%,rgb(51,167,181) 100%);--wp--preset--gradient--electric-grass: linear-gradient(135deg,rgb(202,248,128) 0%,rgb(113,206,126) 100%);--wp--preset--gradient--midnight: linear-gradient(135deg,rgb(2,3,129) 0%,rgb(40,116,252) 100%);--wp--preset--duotone--dark-grayscale: url('#wp-duotone-dark-grayscale');--wp--preset--duotone--grayscale: url('#wp-duotone-grayscale');--wp--preset--duotone--purple-yellow: url('#wp-duotone-purple-yellow');--wp--preset--duotone--blue-red: url('#wp-duotone-blue-red');--wp--preset--duotone--midnight: url('#wp-duotone-midnight');--wp--preset--duotone--magenta-yellow: url('#wp-duotone-magenta-yellow');--wp--preset--duotone--purple-green: url('#wp-duotone-purple-green');--wp--preset--duotone--blue-orange: url('#wp-duotone-blue-orange');--wp--preset--font-size--small: 13px;--wp--preset--font-size--medium: 20px;--wp--preset--font-size--large: 36px;--wp--preset--font-size--x-large: 42px;--wp--preset--spacing--20: 0.44rem;--wp--preset--spacing--30: 0.67rem;--wp--preset--spacing--40: 1rem;--wp--preset--spacing--50: 1.5rem;--wp--preset--spacing--60: 2.25rem;--wp--preset--spacing--70: 3.38rem;--wp--preset--spacing--80: 5.06rem;}:where(.is-layout-flex){gap: 0.5em;}body .is-layout-flow > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-flow > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-flow > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignleft{float: left;margin-inline-start: 0;margin-inline-end: 2em;}body .is-layout-constrained > .alignright{float: right;margin-inline-start: 2em;margin-inline-end: 0;}body .is-layout-constrained > .aligncenter{margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > :where(:not(.alignleft):not(.alignright):not(.alignfull)){max-width: var(--wp--style--global--content-size);margin-left: auto !important;margin-right: auto !important;}body .is-layout-constrained > .alignwide{max-width: var(--wp--style--global--wide-size);}body .is-layout-flex{display: flex;}body .is-layout-flex{flex-wrap: wrap;align-items: center;}body .is-layout-flex > *{margin: 0;}:where(.wp-block-columns.is-layout-flex){gap: 2em;}.has-black-color{color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-color{color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-color{color: var(--wp--preset--color--white) !important;}.has-pale-pink-color{color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-color{color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-color{color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-color{color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-color{color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-color{color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-color{color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-color{color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-color{color: var(--wp--preset--color--vivid-purple) !important;}.has-black-background-color{background-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-background-color{background-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-background-color{background-color: var(--wp--preset--color--white) !important;}.has-pale-pink-background-color{background-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-background-color{background-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-background-color{background-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-background-color{background-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-background-color{background-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-background-color{background-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-background-color{background-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-background-color{background-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-background-color{background-color: var(--wp--preset--color--vivid-purple) !important;}.has-black-border-color{border-color: var(--wp--preset--color--black) !important;}.has-cyan-bluish-gray-border-color{border-color: var(--wp--preset--color--cyan-bluish-gray) !important;}.has-white-border-color{border-color: var(--wp--preset--color--white) !important;}.has-pale-pink-border-color{border-color: var(--wp--preset--color--pale-pink) !important;}.has-vivid-red-border-color{border-color: var(--wp--preset--color--vivid-red) !important;}.has-luminous-vivid-orange-border-color{border-color: var(--wp--preset--color--luminous-vivid-orange) !important;}.has-luminous-vivid-amber-border-color{border-color: var(--wp--preset--color--luminous-vivid-amber) !important;}.has-light-green-cyan-border-color{border-color: var(--wp--preset--color--light-green-cyan) !important;}.has-vivid-green-cyan-border-color{border-color: var(--wp--preset--color--vivid-green-cyan) !important;}.has-pale-cyan-blue-border-color{border-color: var(--wp--preset--color--pale-cyan-blue) !important;}.has-vivid-cyan-blue-border-color{border-color: var(--wp--preset--color--vivid-cyan-blue) !important;}.has-vivid-purple-border-color{border-color: var(--wp--preset--color--vivid-purple) !important;}.has-vivid-cyan-blue-to-vivid-purple-gradient-background{background: var(--wp--preset--gradient--vivid-cyan-blue-to-vivid-purple) !important;}.has-light-green-cyan-to-vivid-green-cyan-gradient-background{background: var(--wp--preset--gradient--light-green-cyan-to-vivid-green-cyan) !important;}.has-luminous-vivid-amber-to-luminous-vivid-orange-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-amber-to-luminous-vivid-orange) !important;}.has-luminous-vivid-orange-to-vivid-red-gradient-background{background: var(--wp--preset--gradient--luminous-vivid-orange-to-vivid-red) !important;}.has-very-light-gray-to-cyan-bluish-gray-gradient-background{background: var(--wp--preset--gradient--very-light-gray-to-cyan-bluish-gray) !important;}.has-cool-to-warm-spectrum-gradient-background{background: var(--wp--preset--gradient--cool-to-warm-spectrum) !important;}.has-blush-light-purple-gradient-background{background: var(--wp--preset--gradient--blush-light-purple) !important;}.has-blush-bordeaux-gradient-background{background: var(--wp--preset--gradient--blush-bordeaux) !important;}.has-luminous-dusk-gradient-background{background: var(--wp--preset--gradient--luminous-dusk) !important;}.has-pale-ocean-gradient-background{background: var(--wp--preset--gradient--pale-ocean) !important;}.has-electric-grass-gradient-background{background: var(--wp--preset--gradient--electric-grass) !important;}.has-midnight-gradient-background{background: var(--wp--preset--gradient--midnight) !important;}.has-small-font-size{font-size: var(--wp--preset--font-size--small) !important;}.has-medium-font-size{font-size: var(--wp--preset--font-size--medium) !important;}.has-large-font-size{font-size: var(--wp--preset--font-size--large) !important;}.has-x-large-font-size{font-size: var(--wp--preset--font-size--x-large) !important;}
+.wp-block-navigation a:where(:not(.wp-element-button)){color: inherit;}
+:where(.wp-block-columns.is-layout-flex){gap: 2em;}
+.wp-block-pullquote{font-size: 1.5em;line-height: 1.6;}
+</style>
+<link rel="stylesheet" id="contact-form-7-css" href="./restomanger_files/styles.css" type="text/css" media="all">
+<link rel="stylesheet" id="js_composer_front-css" href="./restomanger_files/js_composer.min.css" type="text/css" media="all">
+<script type="text/javascript" src="./restomanger_files/frontend-gtag.min.js.téléchargement" id="exactmetrics-frontend-script-js"></script>
+<script data-cfasync="false" data-wpfc-render="false" type="text/javascript" id="exactmetrics-frontend-script-js-extra">/* <![CDATA[ */
+var exactmetrics_frontend = {"js_events_tracking":"true","download_extensions":"zip,mp3,mpeg,pdf,docx,pptx,xlsx,rar","inbound_paths":"[{\"path\":\"\\\/go\\\/\",\"label\":\"affiliate\"},{\"path\":\"\\\/recommend\\\/\",\"label\":\"affiliate\"}]","home_url":"https:\/\/www.saperlipopette1.fr","hash_tracking":"false","ua":"UA-142325756-2","v4_id":""};/* ]]> */
+</script>
+<link rel="https://api.w.org/" href="https://www.saperlipopette1.fr/wp-json/"><link rel="alternate" type="application/json" href="https://www.saperlipopette1.fr/wp-json/wp/v2/pages/4"><link rel="EditURI" type="application/rsd+xml" title="RSD" href="https://www.saperlipopette1.fr/xmlrpc.php?rsd">
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="https://www.saperlipopette1.fr/wp-includes/wlwmanifest.xml">
+<meta name="generator" content="WordPress 6.1.7">
+<link rel="shortlink" href="https://www.saperlipopette1.fr/">
+<link rel="alternate" type="application/json+oembed" href="https://www.saperlipopette1.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.saperlipopette1.fr%2F">
+<link rel="alternate" type="text/xml+oembed" href="https://www.saperlipopette1.fr/wp-json/oembed/1.0/embed?url=https%3A%2F%2Fwww.saperlipopette1.fr%2F&amp;format=xml">
+<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style><meta name="generator" content="Powered by WPBakery Page Builder - drag and drop page builder for WordPress.">
+<style type="text/css" data-type="vc_shortcodes-custom-css">.vc_custom_1557410186972{margin-bottom: 100px !important;}.vc_custom_1707994550690{margin-bottom: 100px !important;padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1639509278401{margin-bottom: 100px !important;padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1557410197151{margin-bottom: 100px !important;}.vc_custom_1557822001301{margin-bottom: 100px !important;padding-top: 100px !important;padding-bottom: 100px !important;}.vc_custom_1557410200401{margin-bottom: 100px !important;}.vc_custom_1557409919643{margin-bottom: 20px !important;}.vc_custom_1557409615974{padding-right: 5px !important;padding-bottom: 5px !important;padding-left: 5px !important;}.vc_custom_1557409624109{padding-right: 5px !important;padding-left: 5px !important;}.vc_custom_1691589650595{margin-bottom: 5px !important;}.vc_custom_1691589659861{margin-bottom: 5px !important;}.vc_custom_1557409615974{padding-right: 5px !important;padding-bottom: 5px !important;padding-left: 5px !important;}.vc_custom_1557409624109{padding-right: 5px !important;padding-left: 5px !important;}.vc_custom_1691589667663{margin-bottom: 5px !important;}.vc_custom_1691589676393{margin-bottom: 5px !important;}.vc_custom_1560434789514{margin-bottom: 20px !important;}.vc_custom_1560434789514{margin-bottom: 20px !important;}.vc_custom_1557410508615{margin-bottom: 20px !important;}.vc_custom_1559058105651{margin-bottom: 20px !important;}.vc_custom_1557410761874{margin-bottom: 20px !important;}</style><noscript><style> .wpb_animate_when_almost_visible { opacity: 1; }</style></noscript><style id="fit-vids-style">.fluid-width-video-wrapper{width:100%;position:relative;padding:0;}.fluid-width-video-wrapper iframe,.fluid-width-video-wrapper object,.fluid-width-video-wrapper embed {position:absolute;top:0;left:0;width:100%;height:100%;}</style><link type="text/css" rel="stylesheet" href="./restomanger_files/css2"></head>
+
+<body class="home page-template page-template-front-page-template page-template-front-page-template-php page page-id-4 wpb-js-composer js-comp-ver-6.8.0 vc_responsive" cz-shortcut-listen="true">
+   <div class="menu-mask"></div>
+   <!-- MOBILE MENU HOLDER -->
+   <div class="mobile-menu-holder">
+      <div class="modal-menu-container">
+         <div class="exit-mobile">
+            <span class="icon-bar1"></span>
+            <span class="icon-bar2"></span>
+         </div>
+         <!-- MOBILE MENU -->
+         <ul id="menu-menu-principal" class="menu-mobile"><li id="menu-item-14" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item menu-item-14"><a href="https://www.saperlipopette1.fr/" aria-current="page">Accueil</a></li>
+<li id="menu-item-27" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://www.saperlipopette1.fr/la-carte/">La carte</a></li>
+<li id="menu-item-28" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="https://www.saperlipopette1.fr/le-restaurant/">Le restaurant</a></li>
+<li id="menu-item-29" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://www.saperlipopette1.fr/nous-trouver/">Nous trouver</a></li>
+<li id="menu-item-85" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-85"><a target="_blank" rel="noopener" href="https://lesbistrotspasparisiens.com/privatisation/privatiser-le-saperlipopette/">Privatisation</a></li>
+<li id="menu-item-71" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71"><a target="_blank" rel="noopener" href="https://lesbistrotspasparisiens.com/nos-actualites">Nos actus</a></li>
+<li id="menu-item-1350" class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1350"><a href="https://recrutement.lesbistrotspasparisiens.com/">Rejoignez-nous</a></li>
+</ul>         <!-- /MOBILE MENU -->
+      </div>
+      <!-- modal-menu-container -->
+      <div class="menu-contact">
+         <ul class="social-media">
+            <li><a class="social-facebook" href="https://www.facebook.com/saperlipopetteputeaux" target="_blank"></a></li>                        <li><a class="social-instagram" href="https://www.instagram.com/lesaperlipopette/?hl=fr" target="_blank"></a></li>         </ul>
+      </div>
+      <!-- /menu-contact-->
+   </div>
+   <!-- /MOBILE MENU HOLDER -->
+
+   <!-- HEADER -->
+   <header id="header-1" class="headerHolder header-1 nav-fixed-top">
+      <div class="nav-button-holder">
+         <button type="button" class="nav-button">
+            <span class="icon-bar"></span>
+         </button>
+      </div>
+      <!-- /nav-button-holder-->
+      <!-- LOGO -->
+      <div class="logo logo-1 logo-float"><a href="https://www.saperlipopette1.fr/"><img width="240" height="32" src="./restomanger_files/logo-rest.png" class="img-fluid" alt="logo-rest" decoding="async" loading="lazy"></a></div>
+
+      <!-- MENU -->
+      <nav class="nav-holder nav-holder-1">
+         <ul id="menu-menu-principal-1" class="menu-nav menu-nav-1"><li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-4 current_page_item menu-item-14"><a href="https://www.saperlipopette1.fr/" aria-current="page">Accueil</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-27"><a href="https://www.saperlipopette1.fr/la-carte/">La carte</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-28"><a href="https://www.saperlipopette1.fr/le-restaurant/">Le restaurant</a></li>
+<li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-29"><a href="https://www.saperlipopette1.fr/nous-trouver/">Nous trouver</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-85"><a target="_blank" rel="noopener" href="https://lesbistrotspasparisiens.com/privatisation/privatiser-le-saperlipopette/">Privatisation</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-71"><a target="_blank" rel="noopener" href="https://lesbistrotspasparisiens.com/nos-actualites">Nos actus</a></li>
+<li class="menu-item menu-item-type-custom menu-item-object-custom menu-item-1350"><a href="https://recrutement.lesbistrotspasparisiens.com/">Rejoignez-nous</a></li>
+</ul>      </nav>
+      <!-- /MENU -->
+      <div class="btn-header">
+         <p>
+            <a href="http://www.saperlipopette1.fr/boutique-cadeaux/" class="view-more gift-btn" style="background-image: url(&#39;https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2019/05/gift.png&#39;)">COFFRETS CADEAUX</a>            <a href="http://www.saperlipopette1.fr/reservations/" class="view-more">Réservations</a>         </p>
+      </div>
+   </header>
+   <!-- /HEADER -->
+        <!-- HOME LOGOS -->
+        <div class="header-container">
+           <img width="1920" height="1080" src="./restomanger_files/BISTROT_PAS_PARISIENS_HD_0036-saperlipopette-6.jpg" class="bg-img" alt="" decoding="async" loading="lazy" srcset="https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2019/05/BISTROT_PAS_PARISIENS_HD_0036-saperlipopette-6.jpg 1920w, https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2019/05/BISTROT_PAS_PARISIENS_HD_0036-saperlipopette-6-300x169.jpg 300w, https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2019/05/BISTROT_PAS_PARISIENS_HD_0036-saperlipopette-6-768x432.jpg 768w, https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2019/05/BISTROT_PAS_PARISIENS_HD_0036-saperlipopette-6-1024x576.jpg 1024w" sizes="(max-width: 1920px) 100vw, 1920px">           <div class="inner">
+              <div class=" main-logo logo-fadeup ">
+                <img width="700" height="47" src="./restomanger_files/logo-big-rest2.png" class="attachment-full size-full" alt="logo-big-rest2" decoding="async" loading="lazy" srcset="https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2019/05/logo-big-rest2.png 700w, https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2019/05/logo-big-rest2-300x20.png 300w" sizes="(max-width: 700px) 100vw, 700px">                 <h2 class="title">Puteaux</h2>
+              </div>
+
+              <div class=" main-logo for-groupe logo-zomein">
+                 <img width="246" height="227" src="./restomanger_files/bistrots-pas-parisiens-restaurant-nobert-tarayre-1.png" class="group-logo" alt="bistrots-pas-parisiens-restaurant-nobert-tarayre-1" decoding="async" loading="lazy">              </div>
+
+              <div class="block-logo-groupe">
+                 <img width="246" height="227" src="./restomanger_files/bistrots-pas-parisiens-restaurant-nobert-tarayre-1.png" class="group-logo" alt="bistrots-pas-parisiens-restaurant-nobert-tarayre-1" decoding="async" loading="lazy">                    <a class="view-all" href="http://www.lesbistrotspasparisiens.com/" target="_blank"><span>Découvrez</span> nos restaurants</a>              </div>
+              <div class="container">
+                 <a href="https://www.saperlipopette1.fr/wrap-content" class="goto"></a>
+              </div>
+           </div>
+        </div>
+        <!-- /HOME LOGOS -->
+        
+<!-- WRAP CONTENT -->
+<div id="wrap-content" class="page-content custom-page-template">
+    <div class="container">
+        <div class="custom-page-template">
+            <div class="vc_row wpb_row vc_row-fluid vc_custom_1557410186972 vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInLeft fadeInLeft wpb_start_animation animated">Découvrir</h2><h3 style="text-align: center" class="vc_custom_heading subtitle wpb_animate_when_almost_visible wpb_fadeInLeftBig fadeInLeftBig vc_custom_1557409919643 wpb_start_animation animated">LA CARTE&nbsp;!</h3>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center">Dans les assiettes on sent la fraîcheur des saisons. La carte renouvelée toutes les quatre semaines respecte les codes de la cuisine « bistrot » avec un rapport qualité – prix inégalable.</p>
+<p style="text-align: center" class="">Côté cuisine, le Chef Denis janvier, au parcours remarquable, offre une cuisine sincère et généreuse aux assaisonnements précis. Au Saperlipopette tout est fait maison&nbsp;! Le foie gras de canard français mi-cuit en terrine se déguste en entrée suivi d’un risotto de gambas, puis la Sphère, dessert signature du restaurant.</p>
+<p style="text-align: center" class="">VENEZ SAVOURER<br>
+<strong class="">notre menu de chef à partir de 39,99€</strong></p>
+
+		</div>
+	</div>
+<div class="vc_btn3-container vc_btn3-center"><a onmouseleave="this.style.borderColor=&#39;#ec7a31&#39;; this.style.backgroundColor=&#39;transparent&#39;; this.style.color=&#39;#ec7a31&#39;" onmouseenter="this.style.borderColor=&#39;#ec7a31&#39;; this.style.backgroundColor=&#39;#ec7a31&#39;; this.style.color=&#39;#ffffff&#39;;" style="border-color: rgb(236, 122, 49); color: rgb(236, 122, 49); background-color: transparent;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-outline-custom" href="http://www.saperlipopette1.fr/le-restaurant/" title="">EN SAVOIR PLUS</a></div></div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><div class="vc_row wpb_row vc_inner vc_row-fluid vc_column-gap-5"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6"><div class="vc_column-inner vc_custom_1557409615974"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1691589650595">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1000" height="1000" src="./restomanger_files/saperlipopette-la-carte-C.jpg" class="vc_single_image-img attachment-large" alt="" decoding="async" loading="lazy" title="saperlipopette-la-carte-C" srcset="https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2023/08/saperlipopette-la-carte-C.jpg 1000w, https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2023/08/saperlipopette-la-carte-C-300x300.jpg 300w, https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2023/08/saperlipopette-la-carte-C-150x150.jpg 150w, https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2023/08/saperlipopette-la-carte-C-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6"><div class="vc_column-inner vc_custom_1557409624109"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1691589659861">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1000" height="1000" src="./restomanger_files/saperlipopette-la-carte-D.jpg" class="vc_single_image-img attachment-large" alt="" decoding="async" loading="lazy" title="saperlipopette-la-carte-D" srcset="https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2023/08/saperlipopette-la-carte-D.jpg 1000w, https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2023/08/saperlipopette-la-carte-D-300x300.jpg 300w, https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2023/08/saperlipopette-la-carte-D-150x150.jpg 150w, https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2023/08/saperlipopette-la-carte-D-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></div>
+		</figure>
+	</div>
+</div></div></div></div><div class="vc_row wpb_row vc_inner vc_row-fluid vc_column-gap-5"><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6"><div class="vc_column-inner vc_custom_1557409615974"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1691589667663">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1000" height="1000" src="./restomanger_files/saperlipopette-la-carte.jpg" class="vc_single_image-img attachment-large" alt="" decoding="async" loading="lazy" title="saperlipopette-la-carte" srcset="https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2023/08/saperlipopette-la-carte.jpg 1000w, https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2023/08/saperlipopette-la-carte-300x300.jpg 300w, https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2023/08/saperlipopette-la-carte-150x150.jpg 150w, https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2023/08/saperlipopette-la-carte-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6 vc_col-xs-6"><div class="vc_column-inner vc_custom_1557409624109"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center  vc_custom_1691589676393">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="1000" height="1000" src="./restomanger_files/saperlipopette-la-carte-B.jpg" class="vc_single_image-img attachment-large" alt="" decoding="async" loading="lazy" title="saperlipopette-la-carte-B" srcset="https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2023/08/saperlipopette-la-carte-B.jpg 1000w, https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2023/08/saperlipopette-la-carte-B-300x300.jpg 300w, https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2023/08/saperlipopette-la-carte-B-150x150.jpg 150w, https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2023/08/saperlipopette-la-carte-B-768x768.jpg 768w" sizes="(max-width: 1000px) 100vw, 1000px"></div>
+		</figure>
+	</div>
+</div></div></div></div></div></div></div></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1557410197151 vc_row-o-content-middle vc_row-flex"><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper">
+	<div class="wpb_single_image wpb_content_element vc_align_center">
+		
+		<figure class="wpb_wrapper vc_figure">
+			<div class="vc_single_image-wrapper   vc_box_border_grey"><img width="750" height="450" src="./restomanger_files/EquipeSaper1_BistrotsPasParisiens.jpg" class="vc_single_image-img attachment-full" alt="EquipeSaper1_BistrotsPasParisiens" decoding="async" loading="lazy" title="EquipeSaper1_BistrotsPasParisiens" srcset="https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2019/06/EquipeSaper1_BistrotsPasParisiens.jpg 750w, https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2019/06/EquipeSaper1_BistrotsPasParisiens-300x180.jpg 300w" sizes="(max-width: 750px) 100vw, 750px"></div>
+		</figure>
+	</div>
+</div></div></div><div class="wpb_column vc_column_container vc_col-sm-6"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInRight fadeInRight wpb_start_animation animated">L'équipe du</h2><h3 style="text-align: center" class="vc_custom_heading subtitle wpb_animate_when_almost_visible wpb_fadeInRightBig fadeInRightBig vc_custom_1557410508615 wpb_start_animation animated">SAPER'</h3>
+	<div class="wpb_text_column wpb_content_element ">
+		<div class="wpb_wrapper">
+			<p style="text-align: center">Si tu es un gentil barman, un serveur de compétition, le meilleur chef de rang, un passionné de cuisine aux talents aiguisés…</p>
+<p style="text-align: center">Si tu es dévoué à nos clients, que tu ne sais pas leur dire non, que tu es élégant, consciencieux et enjoué, que pour toi le service est une danse, que tu as du talent et la fierté du service rendu, bienvenue dans la famille!</p>
+
+		</div>
+	</div>
+<div class="vc_btn3-container vc_btn3-center"><a onmouseleave="this.style.borderColor=&#39;#ec7a31&#39;; this.style.backgroundColor=&#39;transparent&#39;; this.style.color=&#39;#ec7a31&#39;" onmouseenter="this.style.borderColor=&#39;#ec7a31&#39;; this.style.backgroundColor=&#39;#ec7a31&#39;; this.style.color=&#39;#ffffff&#39;;" style="border-color: rgb(236, 122, 49); color: rgb(236, 122, 49); background-color: transparent;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-outline-custom" href="http://www.saperlipopette1.fr/rejoignez-nous/" title="">EN SAVOIR PLUS</a></div></div></div></div></div><div data-vc-full-width="true" data-vc-full-width-init="true" data-vc-parallax="1.5" data-vc-parallax-image="https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2019/05/BISTROT_PAS_PARISIENS_restaurant-saperlipopette-88.jpg" class="vc_row wpb_row vc_row-fluid vc_custom_1557822001301 vc_row-has-fill vc_general vc_parallax vc_parallax-content-moving" style="position: relative; left: -72.7007px; box-sizing: border-box; width: 1105px; padding-left: 72.7007px; padding-right: 72.2993px;"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_start_animation animated">Restaurant</h2><h3 style="color: #ffffff;text-align: center" class="vc_custom_heading subtitle wpb_animate_when_almost_visible wpb_fadeInUpBig fadeInUpBig vc_custom_1559058105651 wpb_start_animation animated">ON Y MANGE BIEN, ON S'Y SENT BIEN</h3><div class="vc_btn3-container vc_btn3-center"><a onmouseleave="this.style.borderColor=&#39;#ec7a31&#39;; this.style.backgroundColor=&#39;transparent&#39;; this.style.color=&#39;#ec7a31&#39;" onmouseenter="this.style.borderColor=&#39;#ec7a31&#39;; this.style.backgroundColor=&#39;#ec7a31&#39;; this.style.color=&#39;#ffffff&#39;;" style="border-color: rgb(236, 122, 49); color: rgb(236, 122, 49); background-color: transparent;" class="vc_general vc_btn3 vc_btn3-size-md vc_btn3-shape-square vc_btn3-style-outline-custom" href="http://www.saperlipopette1.fr/le-restaurant/" title="">EN SAVOIR PLUS</a></div></div></div></div><div class="vc_parallax-inner skrollable skrollable-between" data-bottom-top="top: -50%;" data-top-bottom="top: 0%;" style="height: 150%; background-image: url(&quot;https://www.saperlipopette1.fr/wp-content/uploads/sites/2/2019/05/BISTROT_PAS_PARISIENS_restaurant-saperlipopette-88.jpg&quot;); top: -27.0511%;"></div></div><div class="vc_row-full-width vc_clearfix"></div><div class="vc_row wpb_row vc_row-fluid vc_custom_1557410200401"><div class="wpb_column vc_column_container vc_col-sm-12"><div class="vc_column-inner"><div class="wpb_wrapper"><h2 style="text-align: center" class="vc_custom_heading wpb_animate_when_almost_visible wpb_fadeInUp fadeInUp wpb_start_animation animated">Actualités</h2><h3 style="text-align: center" class="vc_custom_heading subtitle wpb_animate_when_almost_visible wpb_fadeInUpBig fadeInUpBig vc_custom_1557410761874 wpb_start_animation animated">DES BISTROTS PAS PARISIENS</h3>
+	<div class="blog-3col-grid home-blog-grid">
+		<div class="row">
+															<div class="col-md-4">
+						<article class="blog-item blog-item-3col-grid">
+							<a href="https://lesbistrotspasparisiens.com/micheline-ouverture-prochaine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=micheline-ouverture-prochaine">
+								<div class="post-image"><img src="./restomanger_files/MICHELINE-OUVERTURE-PROCHAINE-ACTU.jpg" class="img-fluid" alt="MICHELINE – Ouverture prochaine !"></div>
+							</a>
+							<div class="post-holder post-content content-grid">
+								<ul class="post-meta">
+																		<li class="meta-date">26 mars 2024</li>
+									<li class="meta-categ">Non classé</li>
+								</ul>
+								<h3 class="article-title"><a href="https://lesbistrotspasparisiens.com/micheline-ouverture-prochaine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=micheline-ouverture-prochaine">MICHELINE – Ouverture prochaine&nbsp;!</a></h3>
+								<a class="view-more" href="https://lesbistrotspasparisiens.com/micheline-ouverture-prochaine/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=micheline-ouverture-prochaine">Lire</a>
+							</div>
+						</article>
+					</div>
+														<div class="col-md-4">
+						<article class="blog-item blog-item-3col-grid">
+							<a href="https://lesbistrotspasparisiens.com/2555-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2555-2">
+								<div class="post-image"><img src="./restomanger_files/pas-parisiens-tata-yoyo.jpg" class="img-fluid" alt="Bistrot Tata Yoyo – le petit dernier de la famille !"></div>
+							</a>
+							<div class="post-holder post-content content-grid">
+								<ul class="post-meta">
+																		<li class="meta-date">12 mars 2024</li>
+									<li class="meta-categ">Non classé</li>
+								</ul>
+								<h3 class="article-title"><a href="https://lesbistrotspasparisiens.com/2555-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2555-2">Bistrot Tata Yoyo – le petit dernier de la famille&nbsp;!</a></h3>
+								<a class="view-more" href="https://lesbistrotspasparisiens.com/2555-2/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=2555-2">Lire</a>
+							</div>
+						</article>
+					</div>
+														<div class="col-md-4">
+						<article class="blog-item blog-item-3col-grid">
+							<a href="https://lesbistrotspasparisiens.com/coco-rocco-litalie-a-10-minutes-de-la-porte-maillot/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=coco-rocco-litalie-a-10-minutes-de-la-porte-maillot">
+								<div class="post-image"><img src="./restomanger_files/pas-parisiens-coco-rocco-1.jpg" class="img-fluid" alt="COCO ROCCO – L’Italie à 10 minutes de la Porte Maillot !"></div>
+							</a>
+							<div class="post-holder post-content content-grid">
+								<ul class="post-meta">
+																		<li class="meta-date"> 1 ao�t 2023</li>
+									<li class="meta-categ">Non classé</li>
+								</ul>
+								<h3 class="article-title"><a href="https://lesbistrotspasparisiens.com/coco-rocco-litalie-a-10-minutes-de-la-porte-maillot/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=coco-rocco-litalie-a-10-minutes-de-la-porte-maillot">COCO ROCCO – L’Italie à 10 minutes de la Porte Maillot&nbsp;!</a></h3>
+								<a class="view-more" href="https://lesbistrotspasparisiens.com/coco-rocco-litalie-a-10-minutes-de-la-porte-maillot/?utm_source=rss&amp;utm_medium=rss&amp;utm_campaign=coco-rocco-litalie-a-10-minutes-de-la-porte-maillot">Lire</a>
+							</div>
+						</article>
+					</div>
+										</div>
+	</div>
+
+	</div></div></div></div>
+        </div>
+   </div>
+</div>
+<!-- /WRAP CONTENT -->
+
+<!-- HOME VIDEO -->
+
+
+      <footer>
+         <div class="footer-top">
+            <div class="container">
+               <div class="footer-widgets">
+                  <div class="row">
+                     <!-- FOOTER COLUMN 1 -->
+                     <div class="col-md-3">
+                        <div class="foo-block">
+                           <div id="text-2" class="widget widget-footer widget_text">
+                              <div class="textwidget">
+                                 <p><img width="246" height="227" src="./restomanger_files/bistrots-pas-parisiens-restaurant-nobert-tarayre-1.png" class="size-full logo-center" alt="bistrots-pas-parisiens-restaurant-nobert-tarayre-1" decoding="async" loading="lazy"></p>
+                              </div>
+                           </div>
+                        </div>
+                        <!--foo-block-->
+                     </div>
+                     <!--col-md-3-->
+                     <!-- FOOTER COLUMN 2 -->
+                     <div class="col-md-6">
+                        <div class="foo-block">
+                           <div id="text-3" class="widget widget-footer widget_text">
+                              <h5 class="widgettitle"><span>SAPERLIPOPETTE!</span></h5>                                                               <div class="textwidget">
+                                    <p><a class="fl r-iKfDZBViQFhw" title="Appeler avec Hangouts" href="https://www.google.com/search?ei=BXKDXZHbDsGclwSt6J_gDw&amp;q=saperlipopette&amp;oq=saperlipo&amp;gs_l=psy-ab.3.0.0l10.57876.59120..61184...0.4..0.61.434.9......0....1..gws-wiz.......0i71j0i67j0i131j0i131i67.Q4jgcYS6sEU#" data-number="+33141370000" data-pstn-out-call-url="" data-rtid="iKfDZBViQFhw" data-ved="2ahUKEwjn64Sy79zkAhUyz4UKHUpvAgsQkAgoADAWegQIDBAX">01 41 37 00 00</a></p>
+<p><a href="http://www.saperlipopette1.fr/nous-trouver/">Nous trouver</a><br>
+© 2019 – <a href="http://www.saperlipopette1.fr/mentions-legales/">Mentions Légales</a> – <a href="http://www.saperlipopette1.fr/cgu/">CGU </a>– <a href="https://www.o-communication.com/">Agence web</a><br>
+24 rue Mars et Roty Puteaux, 92800 France</p>
+                                 </div>
+                                                         </div>
+                        </div>
+                        <!--foo-block-->
+                     </div>
+                     <!--col-md-3-->
+                     <!-- FOOTER COLUMN 3 -->
+                     <div class="col-md-3">
+                        <div class="foo-block">
+                           <div id="text-4" class="widget widget-footer widget_text">
+                              <h5 class="widgettitle"><span>NOUS SUIVRE</span></h5>
+                              <ul class="follow-us">
+                                 <li><a class="social-facebook" href="https://www.facebook.com/saperlipopetteputeaux" target="_blank"></a></li>                                                                  <li><a class="social-instagram" href="https://www.instagram.com/lesaperlipopette/?hl=fr" target="_blank"></a></li>                              </ul>
+                           </div>
+                        </div>
+                        <!--foo-block-->
+                     </div>
+                     <!--col-md-3-->
+                  </div>
+                  <!--row-->
+               </div>
+               <!-- footer-widgets -->
+            </div>
+         </div>
+         <div class="footer-bottom">
+            <div class="container">
+                                 <div class="logos-footer">
+                     <div class="owl-carousel owl-theme owl-loaded owl-drag">
+                                                   
+                                                   
+                                                   
+                                                   
+                                                   
+                                                   
+                                                   
+                                                   
+                                                   
+                                                   
+                                                   
+                                             <div class="owl-stage-outer"><div class="owl-stage" style="transform: translate3d(-3304px, 0px, 0px); transition: all 0.25s ease 0s; width: 5554px;"><div class="owl-item cloned" style="width: auto;"><div class="item"><a href="https://lesbistrotspasparisiens.com/" target="_blank"><img width="220" height="100" src="./restomanger_files/restaurant-SAPRISTI-BPP.png" class="img-fluid" alt="restaurant-SAPRISTI-BPP" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item cloned" style="width: auto;"><div class="item"><a href="https://lesbistrotspasparisiens.com/" target="_blank"><img width="220" height="100" src="./restomanger_files/restaurant-PERLIN-TATIN-BPP.png" class="img-fluid" alt="restaurant-PERLIN-TATIN-BPP" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item cloned" style="width: auto;"><div class="item"><a href="https://www.bistrot-papapool.fr/" target="_blank"><img width="122" height="100" src="./restomanger_files/Clamart.png" class="img-fluid" alt="" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item cloned" style="width: auto;"><div class="item"><a href="https://www.chezmonix.fr/" target="_blank"><img width="220" height="100" src="./restomanger_files/logo-chez-monix-bandeau.png" class="img-fluid" alt="" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item cloned" style="width: auto;"><div class="item"><a href="https://www.bistrot-podium.fr/" target="_blank"><img width="220" height="100" src="./restomanger_files/podium__logo.png" class="img-fluid" alt="" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item cloned" style="width: auto;"><div class="item"><a href="https://www.cocorocco.fr/" target="_blank"><img width="220" height="100" src="./restomanger_files/coco-rocco__logo.png" class="img-fluid" alt="" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item" style="width: auto;"><div class="item"><a href="https://www.saperlipopette1.fr/" target="_blank"><img width="220" height="100" src="./restomanger_files/restaurant-saperlipopette-BPP.png" class="img-fluid" alt="restaurant-saperlipopette-BPP" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item" style="width: auto;"><div class="item"><a href="https://www.lebistrot-topchef.fr/" target="_blank"><img width="220" height="100" src="./restomanger_files/test-logo-top-chef.png" class="img-fluid" alt="" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item" style="width: auto;"><div class="item"><a href="http://bistrodeparis.fr/" target="_blank"><img width="220" height="100" src="./restomanger_files/test-logo-bistro-pas-parisien.png" class="img-fluid" alt="" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item" style="width: auto;"><div class="item"><a href="http://bistrolahaut.fr/" target="_blank"><img width="220" height="100" src="./restomanger_files/restaurant-lahaut-BPP.png" class="img-fluid" alt="restaurant-lahaut-BPP" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item" style="width: auto;"><div class="item"><a href="https://lesbistrotspasparisiens.com/" target="_blank"><img width="220" height="100" src="./restomanger_files/restaurant-splash-BPP.png" class="img-fluid" alt="restaurant-splash-BPP" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item" style="width: auto;"><div class="item"><a href="https://lesbistrotspasparisiens.com/" target="_blank"><img width="220" height="100" src="./restomanger_files/restaurant-SAPRISTI-BPP.png" class="img-fluid" alt="restaurant-SAPRISTI-BPP" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item" style="width: auto;"><div class="item"><a href="https://lesbistrotspasparisiens.com/" target="_blank"><img width="220" height="100" src="./restomanger_files/restaurant-PERLIN-TATIN-BPP.png" class="img-fluid" alt="restaurant-PERLIN-TATIN-BPP" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item" style="width: auto;"><div class="item"><a href="https://www.bistrot-papapool.fr/" target="_blank"><img width="122" height="100" src="./restomanger_files/Clamart.png" class="img-fluid" alt="" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item active" style="width: auto;"><div class="item"><a href="https://www.chezmonix.fr/" target="_blank"><img width="220" height="100" src="./restomanger_files/logo-chez-monix-bandeau.png" class="img-fluid" alt="" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item active" style="width: auto;"><div class="item"><a href="https://www.bistrot-podium.fr/" target="_blank"><img width="220" height="100" src="./restomanger_files/podium__logo.png" class="img-fluid" alt="" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item active" style="width: auto;"><div class="item"><a href="https://www.cocorocco.fr/" target="_blank"><img width="220" height="100" src="./restomanger_files/coco-rocco__logo.png" class="img-fluid" alt="" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item cloned active" style="width: auto;"><div class="item"><a href="https://www.saperlipopette1.fr/" target="_blank"><img width="220" height="100" src="./restomanger_files/restaurant-saperlipopette-BPP.png" class="img-fluid" alt="restaurant-saperlipopette-BPP" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item cloned" style="width: auto;"><div class="item"><a href="https://www.lebistrot-topchef.fr/" target="_blank"><img width="220" height="100" src="./restomanger_files/test-logo-top-chef.png" class="img-fluid" alt="" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item cloned" style="width: auto;"><div class="item"><a href="http://bistrodeparis.fr/" target="_blank"><img width="220" height="100" src="./restomanger_files/test-logo-bistro-pas-parisien.png" class="img-fluid" alt="" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item cloned" style="width: auto;"><div class="item"><a href="http://bistrolahaut.fr/" target="_blank"><img width="220" height="100" src="./restomanger_files/restaurant-lahaut-BPP.png" class="img-fluid" alt="restaurant-lahaut-BPP" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item cloned" style="width: auto;"><div class="item"><a href="https://lesbistrotspasparisiens.com/" target="_blank"><img width="220" height="100" src="./restomanger_files/restaurant-splash-BPP.png" class="img-fluid" alt="restaurant-splash-BPP" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div><div class="owl-item cloned" style="width: auto;"><div class="item"><a href="https://lesbistrotspasparisiens.com/" target="_blank"><img width="220" height="100" src="./restomanger_files/restaurant-SAPRISTI-BPP.png" class="img-fluid" alt="restaurant-SAPRISTI-BPP" decoding="async" loading="lazy" style="opacity: 1;"></a></div></div></div></div><div class="owl-nav disabled"><button type="button" role="presentation" class="owl-prev"><span aria-label="Previous">‹</span></button><button type="button" role="presentation" class="owl-next"><span aria-label="Next">›</span></button></div><div class="owl-dots disabled"></div></div>
+                  </div>
+                              <p class="info">des bistrots pas parisiens</p>
+            </div>
+         </div>
+         <!--container-->
+      </footer>
+      <!-- /FOOTER -->
+      <div class="scrollup" style="display: block;">
+         <a class="scrolltop" href="https://www.saperlipopette1.fr/#">
+            <i class="fa fa-chevron-up"></i>
+         </a>
+      </div>
+      
+      <!-- JS -->
+      <script src="./restomanger_files/jquery.js.téléchargement"></script>
+      <script src="./restomanger_files/jquery-migrate.min.js.téléchargement"></script>
+      <script src="./restomanger_files/popper.min.js.téléchargement"></script>
+      <script src="./restomanger_files/bootstrap.min.js.téléchargement"></script>
+      <script src="./restomanger_files/jquery.easing.min.js.téléchargement"></script>
+      <script src="./restomanger_files/jquery.fitvids.js.téléchargement"></script>
+      <script src="./restomanger_files/owl.carousel.min.js.téléchargement"></script>
+      <script src="./restomanger_files/jquery.magnific-popup.min.js.téléchargement"></script>
+      <script src="./restomanger_files/fix-spaces.js.téléchargement"></script>
+      <!-- MAIN JS -->
+      <script src="./restomanger_files/init.js.téléchargement"></script>
+      <script src="./restomanger_files/override.js.téléchargement"></script>
+
+      
+      
+      <script type="text/javascript">
+         (function($) {
+            $(document).ready(function() {
+               $('#normalModal').modal('show');
+            });
+         })(jQuery);
+      </script>
+
+      <link rel="stylesheet" id="vc_animate-css-css" href="./restomanger_files/animate.min.css" type="text/css" media="all">
+<script type="text/javascript" src="./restomanger_files/index.js.téléchargement" id="swv-js"></script>
+<script type="text/javascript" id="contact-form-7-js-extra">
+/* <![CDATA[ */
+var wpcf7 = {"api":{"root":"https:\/\/www.saperlipopette1.fr\/wp-json\/","namespace":"contact-form-7\/v1"}};
+/* ]]> */
+</script>
+<script type="text/javascript" src="./restomanger_files/index(1).js.téléchargement" id="contact-form-7-js"></script>
+<script type="text/javascript" src="./restomanger_files/jquery.min.js.téléchargement" id="jquery-core-js"></script>
+<script type="text/javascript" src="./restomanger_files/js_composer_front.min.js.téléchargement" id="wpb_composer_front_js-js"></script>
+<script type="text/javascript" src="./restomanger_files/vc-waypoints.min.js.téléchargement" id="vc_waypoints-js"></script>
+<script type="text/javascript" src="./restomanger_files/skrollr.min.js.téléchargement" id="vc_jquery_skrollr_js-js"></script>
+
+      
+
+      
+<span id="PING_CONTENT_DLS_POPUP" style="display: none;"></span><div style="background-color: transparent; border: none; bottom: 15px; display: block; margin: 0px; opacity: 1; padding: 0px; position: fixed; right: 15px; z-index: 2147483647;"><template shadowrootmode="closed"><style>/*!
+ * 
+ *     MCAFEE RESTRICTED CONFIDENTIAL
+ *     Copyright (c) 2024 McAfee, LLC
+ *
+ *     The source code contained or described herein and all documents related
+ *     to the source code ("Material") are owned by McAfee or its
+ *     suppliers or licensors. Title to the Material remains with McAfee
+ *     or its suppliers and licensors. The Material contains trade
+ *     secrets and proprietary and confidential information of McAfee or its
+ *     suppliers and licensors. The Material is protected by worldwide copyright
+ *     and trade secret laws and treaty provisions. No part of the Material may
+ *     be used, copied, reproduced, modified, published, uploaded, posted,
+ *     transmitted, distributed, or disclosed in any way without McAfee's prior
+ *     express written permission.
+ *
+ *     No license under any patent, copyright, trade secret or other intellectual
+ *     property right is granted to or conferred upon you by disclosure or
+ *     delivery of the Materials, either expressly, by implication, inducement,
+ *     estoppel or otherwise. Any license under such intellectual property rights
+ *     must be expressed and approved by McAfee in writing.
+ *
+ */
+@import url(https://fonts.googleapis.com/css2?family=Open+Sans:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;1,300;1,400;1,500;1,600;1,700;1,800&family=Poppins:ital,wght@0,400;0,500;0,600;0,800;1,400;1,500;1,600;1,800&display=swap);
+*{border:0;box-sizing:border-box;font:inherit;font-family:"mcafeeOpenSans","Poppins",Helvetica,Arial,Arial,Helvetica,sans-serif;font-size:100%;margin:0;padding:0;vertical-align:baseline;outline:none}article,aside,details,figcaption,figure,footer,header,hgroup,menu,nav,section{display:block}html,body{background-color:#f5f6fa;font-family:"Poppins",Helvetica,Arial,"mcafeeOpenSans",Arial,Helvetica,sans-serif;line-height:1;height:100%;width:100%}ol,ul{list-style:none}blockquote,q{quotes:none}blockquote:after,blockquote:before,q:after,q:before{content:"";content:none}table{border-collapse:collapse;border-spacing:0}b{font-weight:bold}img{display:block}.dls__container{align-items:center;display:flex;margin:0 auto;margin-top:50px;position:relative}.dls__popup__expanded{align-items:center;overflow:hidden;border-radius:100px;cursor:pointer;display:flex;left:0;padding:15px;position:absolute;height:95px;width:383px;background-color:#fff;transition:all .3s ease-in-out}.dls__popup__expanded .dls__icon{height:65px;width:73px}.content{margin-left:12px}.content .content__images{display:flex;align-items:center;width:250px}.content .content__images .seperator__line{margin-left:5px;margin-right:10px}.content .content__images #dls_close_icon{cursor:pointer;margin-left:auto;margin-right:0px}.content p{font-family:"Poppins",Arial,Helvetica,sans-serif;font-weight:"400";font-size:14px;line-height:20px;margin-top:8px;color:#4258ff;width:250px;cursor:pointer}.shield{overflow:hidden;box-shadow:0px 2px 4px 0px rgba(33,41,52,.12),0px -1px 2px 0px rgba(0,0,0,.08);align-items:center;border-radius:100px;bottom:0;display:flex;height:95px;justify-content:center;position:absolute;right:0;width:383px;transition:all .3s ease-in-out}.shield__circle{display:flex;justify-content:center;align-items:center;width:55px;height:55px;background-color:#c01818;transition:all .6s ease-in-out .2s;z-index:1;opacity:0}
+
+/*# sourceMappingURL=../sourceMap/chrome/css/download_scan_popup.css.map*/</style><div class="dls__container">
+  <div class="shield" style="height: 115px; background: transparent; opacity: 0.1; display: none;">
+    <div class="shield__circle" style="opacity: 1;">
+      <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/mcafee_logo_white.svg?secret=vkqks4" x-mcsrc="" id="dls_ballon_icon" x-mcsrcparsed="true">
+    </div>
+    <div class="dls__popup__expanded" style="opacity: 0;">
+      <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/download_scan_icon.svg?secret=vkqks4" x-mcsrc="" class="dls__icon" x-mcsrcparsed="true">
+      <div class="content">
+        <div class="content__images">
+          <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/mcafee_logo_red.svg?secret=vkqks4" x-mcsrc="" id="dls_mcafee_logo" x-mcsrcparsed="true">
+          <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/seperator_line.svg?secret=vkqks4" x-mcsrc="" class="seperator__line" x-mcsrcparsed="true">
+          <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/webadvisor.svg?secret=vkqks4" x-mcsrc="" x-mcsrcparsed="true">
+          <img src="chrome-extension://fheoggkfdfchfphceeifdbepaooicaho/images/download_scan/close-outline.svg?secret=vkqks4" x-mcsrc="" id="dls_close_icon" x-mcsrcparsed="true">
+        </div>
+        <p id="download_scan_popup_expanded_descriptions">Votre téléchargement est en cours d'analyse. Nous vous avertirons en cas de problème.</p>
+      </div>
+    </div>
+  </div>
+</div><style>/*!
+ * 
+ *     MCAFEE RESTRICTED CONFIDENTIAL
+ *     Copyright (c) 2024 McAfee, LLC
+ *
+ *     The source code contained or described herein and all documents related
+ *     to the source code ("Material") are owned by McAfee or its
+ *     suppliers or licensors. Title to the Material remains with McAfee
+ *     or its suppliers and licensors. The Material contains trade
+ *     secrets and proprietary and confidential information of McAfee or its
+ *     suppliers and licensors. The Material is protected by worldwide copyright
+ *     and trade secret laws and treaty provisions. No part of the Material may
+ *     be used, copied, reproduced, modified, published, uploaded, posted,
+ *     transmitted, distributed, or disclosed in any way without McAfee's prior
+ *     express written permission.
+ *
+ *     No license under any patent, copyright, trade secret or other intellectual
+ *     property right is granted to or conferred upon you by disclosure or
+ *     delivery of the Materials, either expressly, by implication, inducement,
+ *     estoppel or otherwise. Any license under such intellectual property rights
+ *     must be expressed and approved by McAfee in writing.
+ *
+ */
+.mc-interactive-balloon{position:absolute;right:-50px;bottom:8px;box-shadow:rgba(0,0,0,.12) 0px 0px 10px;height:40px;width:40px;background:#1671ee;border-radius:20px;display:flex;justify-content:center;align-items:center}
+
+/*# sourceMappingURL=../sourceMap/chrome/css/interactive_balloon.css.map*/</style></template></div></body></html>

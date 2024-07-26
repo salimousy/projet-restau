@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+
+<url>
+  <loc>https://salimou-sy.fr/projet1/</loc>
+  <lastmod>2024-07-26T10:29:46+00:00</lastmod>
+  <priority>1.00</priority>
+  <image:image>
+            <image:loc>assets/img/page accueil/SAPERLIPOPETTE.jpg</image:loc>
+            <image:caption>Saperlipopette</image:caption>
+            <image:title>Saperlipopette</image:title>
+            <image:geo_location>Paris, France</image:geo_location>
+        </image:image>
+</url>
+<url>
+  <loc>https://salimou-sy.fr/projet1/index.html</loc>
+  <lastmod>2024-07-26T10:29:46+00:00</lastmod>
+  <priority>0.80</priority>
+              <image:loc>assets/img/page accueil/SAPERLIPOPETTE.jpg</image:loc>
+            <image:caption>Saperlipopette</image:caption>
+            <image:title>Saperlipopette</image:title>
+            <image:geo_location>Paris, France</image:geo_location>
+        </image:image>
+</url>
+<url>
+  <loc>https://salimou-sy.fr/projet1/Pagecarte.html</loc>
+  <lastmod>2024-07-26T10:29:47+00:00</lastmod>
+  <priority>0.80</priority>
+              <image:loc>assets/img/page accueil/SAPERLIPOPETTE.jpg</image:loc>
+            <image:caption>Saperlipopette</image:caption>
+            <image:title>Saperlipopette</image:title>
+            <image:geo_location>Paris, France</image:geo_location>
+        </image:image>
+</url>
+<url>
+  <loc>https://salimou-sy.fr/projet1/pagerestaurant.html</loc>
+  <lastmod>2024-07-26T10:29:47+00:00</lastmod>
+  <priority>0.80</priority>
+              <image:loc>assets/img/page accueil/SAPERLIPOPETTE.jpg</image:loc>
+            <image:caption>Saperlipopette</image:caption>
+            <image:title>Saperlipopette</image:title>
+            <image:geo_location>Paris, France</image:geo_location>
+        </image:image>
+</url>
+
+
+</urlset>

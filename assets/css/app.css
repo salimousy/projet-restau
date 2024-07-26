@@ -1,1 +1,260 @@
+@import url(./component/header.css);
 @import url(./component/global.css);
+
+hgroup {
+    text-align: center;
+}
+
+/* 
+.headeri {
+
+    width: 1370px;
+    height: 665px;
+
+} */
+
+
+
+.decouvrir-carte {
+    width: 1140px;
+    display: flex;
+    align-items: center;
+
+}
+
+
+.la-carte {
+    display: block;
+    padding: 30px;
+    width: 50%;
+
+
+}
+
+h2,
+h3 {
+    padding-left: 130px;
+    padding-bottom: 10px;
+
+}
+
+p {
+    padding: 10px;
+
+
+}
+
+.photos {
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+    width: 50%;
+
+}
+
+.photo {
+    aspect-ratio: 1;
+    width: 200px;
+    margin: 0 5px 5px 0;
+
+}
+
+
+.équipe-saper {
+    width: 1140px;
+    display: flex;
+    align-items: center;
+
+}
+
+.saper {
+    display: block;
+    padding: 30px;
+    width: 50%;
+    margin-left: 30px;
+
+}
+
+.photosaper {
+    width: 685;
+    height: 387;
+    margin-bottom: 60px;
+
+
+}
+
+.buttonsaper {
+    /* margin-left: 100px;
+    border-color: rgb(210, 87, 30); */
+    text-align: center;
+    margin: 10px auto;
+    display: block;
+    border: 1px solid #ee8b2e;
+
+    background-color: #fdfbf9;
+    color: orange;
+    text-decoration: none;
+
+}
+
+.buttonsaper:hover {
+    background-color: #ee8b2e;
+    color: #dddcdb;
+}
+
+/* .restaurant {
+    
+    display: inline-block;
+    background-image: url('./assets/img/page accueil/pexels-pixabay-260922.jpg');
+    height: 200px;
+    z-index: 2;
+} */
+
+/* .mange {
+    display: flex;
+    position: relative;
+    /* /* align-items: center;
+    justify-content: center; 
+    } */
+
+.restaurant {
+    position: relative;
+    display: inline-block;
+}
+
+.restaurant img {
+    display: block;
+}
+
+.restaurant h2,
+.restaurant h3 {
+    position: absolute;
+    width: 100%;
+    text-align: center;
+
+}
+
+.restaurant h2 {
+    color: orange;
+    border-color: black;
+    top: 30%;
+    /* Ajustez cette valeur selon vos besoins */
+}
+
+.restaurant h3 {
+    color: white;
+    top: 50%;
+    /* Ajustez cette valeur selon vos besoins */
+}
+
+.buttonrestau {
+    text-align: center;
+    margin: 10px auto;
+    display: block;
+    border: 1px solid #ee8b2e;
+
+    background-color: #fdfbf9;
+    color: orange;
+    text-decoration: none;
+}
+
+.buttonrestau:hover {
+    background-color: #ee8b2e;
+    color: #dddcdb;
+}
+
+h4 {
+    text-align: center;
+    color: #ee8b2e;
+    margin: 10px 0;
+    font-size: 42px;
+  }
+.bistrot {
+    text-align: center;
+    color: rgb(37, 37, 37);
+    margin: 10px 0;
+    font-size: 42px;
+
+} 
+
+.actualités {
+    width: 80%;
+    margin: 0 auto;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+
+  .card {
+    
+    margin: 10px;
+    width: 30%;
+    padding: 10px;
+    box-shadow: 2px 2px 4px grey;
+    
+  }
+  .card h2 {
+    text-align: center;
+    margin: 5px 0;
+    color: #ee8b2e;
+  }
+  .card img {
+    width: 100%;
+    aspect-ratio: 1;
+    object-fit: cover;
+    border-radius: 8px;
+  }
+  .card p {
+    text-align: right;
+    font-size: 22px;
+    color: #fffefd;
+  }
+  .card a {
+    width: 100%;
+    background-color: #ee8b2e;
+    color: #FFF;
+    padding: 3px;
+    margin: 2px 0;
+    text-decoration: none;
+    border-radius: 8px;
+    font-size: 18px;
+    display: block;
+    text-align: center;
+  }
+
+  body {
+    font-family: Arial, sans-serif;
+}
+.footer {
+    display: flex;
+    justify-content: space-between;
+    background-color: rgb(62, 85, 86);
+    color: white;
+    padding: 20px;
+}
+.footer img {
+    max-width: 100px;
+}
+.footer .section {
+    flex: 1;
+    margin: 0 10px;
+}
+.footer .section h2 {
+    margin-bottom: 10px;
+}
+.footer .section p {
+    margin: 5px 0;
+
+}
+.footer .icons {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.footer .icons i {
+    font-size: 24px;
+    margin-right: 10px;
+}
